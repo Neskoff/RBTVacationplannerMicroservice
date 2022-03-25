@@ -4,7 +4,6 @@
 - Java 16
 - InteliJ Ultimate
 
-For any further question please refer to the [Quickstart Guide](https://kafka.apache.org/quickstart)
 ## Setting up the Spring project
 After you are done with configuring Apache Kafka server please
 use the following steps to get your Spring application up and running:
